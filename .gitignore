@@ -47,3 +47,4 @@ publish/
 *.unityproj
 *.sln
 *.suo
+*.vsconfig
